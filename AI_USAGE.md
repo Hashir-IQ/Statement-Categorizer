@@ -15,7 +15,11 @@ The initial starter page was only an example screen and did not satisfy the prod
 
 ## Token / usage log
 
-This project was created in one Manus coding session. The tool interface did not expose a per-call token counter or screenshot export, so there is no fabricated token number or screenshot in this file. The verifiable usage record is the repository change history and the commands listed below:
+This project was created in one Manus coding session. The tool interface did not expose a per-call token counter, so the exact input/output token total is recorded as **unavailable**, not estimated or fabricated. A screenshot captured with the webdev Preview tool is included as repository evidence:
+
+![Ledger Lens Preview captured during validation](docs/ledger-lens-preview.png)
+
+The verifiable usage record is the repository change history and the commands listed below:
 
 - `pnpm check`
 - `pnpm test`
